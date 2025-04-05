@@ -1,0 +1,15 @@
+{
+  "features": {
+    "edit_prediction_provider": "zed"
+  },
+  "theme": "macOS Classic Light",
+  "telemetry": {
+    "metrics": false
+  },
+  "ui_font_size": 16,
+  "buffer_font_size": 16,
+  "autosave": "on_focus_change",
+  "tabs": {
+    "close_position": "left"
+  }
+}
